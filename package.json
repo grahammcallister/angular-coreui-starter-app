@@ -1,0 +1,22 @@
+{
+  "name": "angular-coreui-starter-app",
+  "version": "1.0.0",
+  "description": "Starter app for using CoreUI with Angular",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grahammcallister/angular-coreui-starter-app.git"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "author": "Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grahammcallister/angular-coreui-starter-app/issues"
+  },
+  "homepage": "https://github.com/grahammcallister/angular-coreui-starter-app#readme"
+}
